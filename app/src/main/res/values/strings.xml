@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Masquerade Digma</string>
+    <string name="title_activity_social">Masquerade Digma</string>
+    <string name="title_activity_camera">Masquerade Digma</string>
+    <string name="title_activity_main">Masquerade Digma</string>
+    <string name="title_activity_upload">Masquerade Digma</string>
+    <string name="title_activity_terms_condition">Términos y Condiciones</string>
+
+    <!-- Menus -->
+    <string name="logout">Salir</string>
+    <!-- end Menus -->
+
+    <!-- Interface -->
+    <string name="btn_use_camera">Tomar foto</string>
+    <string name="content_desc_overlay">overlay</string>
+    <string name="btn_capture_text">Foto</string>
+    <string name="btn_upload_server">Subir foto</string>
+    <!-- end Interface -->
+
+    <!-- API KEYS -->
+    <string name="facebook_app_id">932358200187107</string>
+
+    <string name="twitter_consumer_key">OTtIEoZZs1xfeGRkX9qLqksWI</string>
+    <string name="twitter_consumer_secret">QLNU6dqF6n6jxbaFEG6zWlHKK3VomjqTtfQFDtujApghoO8iXo</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="large_text">
+        MASQUERADE
+TÉRMINOS Y CONDICIONES
+Lea detenidamente el siguiente aviso de privacidad antes de usar el software. Al instalar el software, acepta usted quedar vinculado por las condiciones del mismo. Si no acepta los términos y condiciones de este aviso de privacidad, no instale el software.
+AVISO DE PRIVACIDAD Consultoría San Carlos, S.A. DE C.V. Este Aviso de privacidad describe la forma en que recabamos y usamos los datos personales que usted nos brinda, uso que será el necesario, adecuado y relevante en relación con las finalidades determinadas previstas en este documento. También describe qué tipo de datos son y qué opciones tiene para limitar el uso de dichos datos, así como el procedimiento para ejercer sus derechos ARCO (Acceso, Rectificación, Cancelación y Oposición), en cumplimiento a los principios de Licitud, Consentimiento, Calidad, Información, Finalidad, Lealtad, Proporcionalidad y Responsabilidad que la ley establece. El hecho de acceder al sitio este sitio web ó a la aplicación MASQUERADE implica el conocimiento y la aceptación de los siguientes términos y condiciones de uso y contenido, así como la aceptación del presente Aviso de Privacidad. Salvo la indicación expresa de lo contrario. Consultoría San Carlos, S.A. DE C.V. (en lo sucesivo DIGMA.MX), se constituye como responsable tanto del uso que se le dé a sus datos personales como de su protección, a través de la implementación de medidas de seguridad técnicas, administrativas y físicas que permiten protegerlos contra cualquier daño, pérdida, alteración, destrucción, acceso o tratamiento no autorizado por usted como titular, ya que sabemos la importancia que tiene proteger su privacidad frente a terceros y el derecho que tiene a la autodeterminación informativa, DIGMA.MX informa al usuario que los datos recabados durante el proceso de alta registro no son comunicados a terceros sin ser previamente disociados. Entendemos por “usuarios” a las personas que se registran a nuestra aplicación o página Web para interactuar con los contenidos y marcas utilizados en la aplicación MASQUERADE. Asimismo, entendemos por clientes a aquellas empresas o personas que contratan y pagan por los servicios de publicidad y promoción que ofrecemos en la aplicación MASQUERADE.
+
+1) Responsable de la protección de sus datos personales: Consultoría San Carlos, S.A. de C.V. (DIGMA.MX), con domicilio en: Calle 8 número 327 departamento número 9, entre calles 63 y 65, Col. Centro, C.P. 24000, San Francisco de Campeche, Campeche, México.
+
+2) Sus datos serán recabados a través de la aplicación MASQUERADE o por medio de la página Web: http://www.masquerade.com.mx o mediante el correo electrónico info@digma.mx.
+
+3) ¿Para qué fines recabamos y utilizamos sus datos personales? Sus datos personales serán utilizados para las siguientes finalidades primarias:
+• Segmentar la publicidad y promoción de nuestros Clientes a fin de que el usuario reciba publicidad y promoción adecuada a sus preferencias individuales.
+• Confirmar su identidad para el uso que de la aplicación.
+• Invitar al titular a participar en encuestas o cuestionarios, en sesiones de grupos, en investigaciones para estudios de mercado y opinión pública.
+• Permitir al titular de la cuenta utilizar los distintos servicios de MASQUERADE y DIGMA.MX incluyendo la descarga de contenidos y formatos.
+• Reclutar al titular para que participe en chats, foros o debates de discusión en línea sobre productos y/ servicios.
+• Invitar al titular a compartir sus comentarios o sugerencias sobre los productos y servicios de DIGMA.MX.
+• Verificar la participación del titular en las investigaciones para estudios de mercado, y opinión pública. • Realizar estudios sobre los datos demográficos, de consumo, intereses y perfil de nuestros usuarios y así facilitar la elaboración y distribución de contenidos.
+• Responder a sus requerimientos de información, atención y servicio.
+• Evaluar la calidad del servicio que brindamos.
+• Para mantener un archivo de registros y un expediente de la relación comercial y/o contractual para dar seguimiento de servicios futuros.
+• Para confirmar la identidad de nuestros usuarios cuando así nos sea requerido por los proveedores de productos y servicios que participen en nuestro esquema de publicidad o marketing a través de nuestra aplicación actual o futuras.
+• Para la gestión financiera, facturación y cobros.
+• Dar cumplimiento a las obligaciones y compromisos que hemos contraído con nuestros usuarios.
+• Realizar estudios de mercado para determinar hábitos de uso y consumo de nuestros usuarios.
+
+Adicionalmente, sus datos personales podrán ser utilizados para las siguientes finalidades secundarias:
+• Realización de rifas para los usuarios registrados en la aplicación MASQUERADE.
+• Efectuar estudios de mercado con el fin de generar “leads”, es decir, clientes potenciales que han manifestado interés en algún producto o servicio.
+• Enviar al usuario registrado de la aplicación, información comercial sobre productos o servicios que pudieran ser de su interés, ya sea a través de correos electrónicos, mensajes de texto vía celular, mensajes vía redes sociales, mensajes vía chats, llamadas telefónicas, correo postal, flyers, revistas o cualquier otro medio de comunicación digital o físico.
+• Generar invitaciones o entregar cupones, sean ambos en formato impreso o electrónico, para que pueda recibir muestras de productos físicos o generar descargas en su teléfono celular.
+• Generar invitaciones o entregar cupones, sean ambos en formato impreso o electrónico, para comprar y/o registrarse para utilizar diversos productos y servicios.
+• Realizar evaluaciones periódicas de nuestros productos y servicios a efecto de mejorar la calidad de los mismos.
+• Notificarle sobre nuevos servicios o productos que tengan relación con los ya contratados o adquiridos.
+• Boletines y comunicados sobre nuestra organización o productos.
+
+4) ¿Qué datos personales obtenemos y de dónde? Al registrarse, el usuario acepta los términos y condiciones (documento adjunto en el sitio Web) de MASQUERADE o de DIGMA.MX y de la propia aplicación de MASQUERADE y nos brinda su consentimiento para que enviemos notificaciones de nuevos eventos y promociones por correo electrónico. Asimismo, el usuario garantiza la veracidad de sus datos y mayoría de edad, por lo que DIGMA.MX quedará exento de cualquier responsabilidad por el incumplimiento por parte del usuario de tales requisitos. Todos los usuarios garantizan ser mayores de 18 años, con plena capacidad de uso y goce de sus derechos y en el caso de ser menores de edad, o encontrarse en estado de interdicción, que cuentan con el consentimiento de su padre, madre o tutor. Los usuarios y/o su representante legal y los padres y/o tutores de usuarios menores de edad son los únicos responsables de la honestidad de la información que proporcionan y garantizan la veracidad de la misma. DIGMA.MX asume que los menores de edad cuentan con el consentimiento de sus padres o tutores legales para el uso de la aplicación MASQUERADE. DIGMA.MX se reserva el derecho a retirar el derecho de uso de la aplicación de los usuarios que detectemos como fraudulentos, es decir aquellos usuarios: que den un mal uso o abusen de los beneficios de la aplicación MASQUERADE; que proporcionen cualquier dato que no sea verídico; menores que no cuenten con el consentimiento de sus padres o tutores; que infrinjan cualquier disposición legal y/o reglamentaria; que proporcionen respuestas incoherentes a las preguntas que se les formulen; que atenten contra las buenas costumbres; o como consecuencia de cualquier comportamiento no ético por parte de los usuarios, por medio del cual pretendan obtener cualquier provecho indebido o mediante el cual quieran aprovecharse indebidamente de la aplicación MASQUERADE. Para las finalidades señaladas anteriormente podemos recabar sus datos personales de distintas formas:
+• Cuando visita nuestros sitios de Internet, se registra en la aplicación MASQUERADE o a través del uso de la misma.
+• Cuando utiliza nuestros servicios en línea.
+• Cuando obtenemos información a través de otras fuentes de acceso público que están permitidas por la ley (Directorios telefónicos o laborales, sitios web, etc.).
+Podríamos recabar los siguientes datos personales con la finalidad de lograr la segmentación que necesitan nuestros clientes para conocer la opinión de los usuarios:
+• Información de contacto (Nombre completo, email, dirección, teléfono, celular, fecha de nacimiento, sexo, nacionalidad, país de residencia, nivel de estudios, situación laboral, etc.).
+• Documentación de identidad (CURP) • Información familiar (Estado civil, número de hijos, interés en encontrar pareja, número de personas con las que comparte hogar).
+• Economía y vivienda (Cuenta de banco, cuenta Paypal, hipoteca, alquiler mensual, tiempo en situación laboral actual, frecuencia de consumo en tiendas de autoservicio, independencia económica, tipo de vivienda, medio de transporte habitual, posesión de automóvil, posesión de motocicleta, compañía de seguros de auto, pago destinado a compañía de seguro.
+• Identificación en Redes Sociales (Facebook, Twitter, LinkedIn, Instagram, YouTube, Google+, Spotify y, en general cualquier otra red social disponible en el mercado y en la que se comparta información pública).
+• Aficiones y viajes (práctica de deporte, frecuencia de práctica de deporte, hábitos de consumo en diversos establecimientos, hábitos de lectura, frecuencia de viajes, mascotas, preferencia por productos específicos, compras por internet, etc.).
+• Información sobre servicios contratados (operador de telefonía fija y telefonía móvil, televisión de paga, proveedor de internet, seguros, bancos, etc.).
+• Datos sobre uso de tecnología (dispositivos electrónicos que utiliza),
+• Opinión general a cerca de diferentes productos y servicios que proporciona el mercado. Uso de cookies, web beacons y JavaScript: Una cookie es información que un sitio web almacena en su computadora mediante el uso de un navegador o explorador de internet. Una cookie permite que los sitios web registren sus actividades de navegación en internet como por ejemplo, cuáles son las páginas y contenidos que estuvo mirando, cuándo los visitó, qué buscó, y si usted hizo clic sobre algún recurso. Los datos recolectados por las cookies se pueden combinar para crear un perfil de sus actividades en internet. Las web beacons en conjunto con los JavaScripts de métricas web permiten almacenar información sobre los patrones de uso de nuestro sitio web y de nuestra aplicación. Le informamos que utilizamos esas herramientas para obtener información estadística como la siguiente: Tipo de navegador y sistema operativo, las páginas de Internet consultadas, origen de la visita, la dirección IP de acceso, tiempo de permanencia en nuestro sitio, entre otros datos estadísticos. Las cookies, el JavaScript y otras tecnologías de seguimiento y rastreo pueden ser deshabilitadas, sin embargo, desactivarlas puede generar que el sitio web o algunas de sus funcionalidades no se desempeñen adecuadamente. Para revisar las configuraciones y en su caso deshabilitarlas, use la pestaña ‘Ayuda’ (Help), o busque en: ‘Herramientas’ (Tools) la configuración de ‘Opciones’ (Options) o ‘Privacidad’ (Privacy) de su navegador. Desde allí, puede eliminar las cookies, o controlar en qué caso usted permite instalarlas. Hay algunos navegadores que permiten instalar herramientas software complementarias (add-on software tools) para bloquear, eliminar o controlar las cookies. Y generalmente, los programas de seguridad incluyen opciones para facilitar el control de las cookies.
+
+El establecimiento de cualquier hiperenlace desde una página web ajena a cualquiera de las páginas de los sitios Web de DIGMA.MX se realizará conforme a las siguientes condiciones:
+• No se permite la reproducción total ni parcial de los servicios ni de los contenidos de DIGMA.MX ni de la aplicación MASQUERADE
+• ·No se incluirán manifestaciones falsas sobre las páginas de nuestros sitios Web o de nuestra aplicación MASQUERADE.
+• DIGMA.MX no será responsable de los contenidos o información falsa a disposición del público en las páginas Web de otros sitios.
+• En caso de que se utilicen hiperenlaces, estos serán validados de manera previa con los titulares de dichas páginas o sitios Web, por lo que DIGMA.MX no será responsable por las actividades que realicen los usuarios en dichos enlaces, especialmente si son de tipo moral o de orden público.
+
+5) ¿Cómo Acceder, Rectificar, Cancelar u Oponerse al uso y tratamiento de sus datos personales (Derechos ARCO)? Usted tiene derecho constitucional de Acceder y conocer los datos personales que poseemos y a los detalles del tratamiento y uso de los mismos, así como a Rectificarlos y corregirlos en caso de ser inexactos o incompletos; Cancelarlos y eliminarlos cuando considere que no se requieren para alguna de las finalidades señalados en el presente aviso de privacidad, o que estén siendo utilizados para finalidades no autorizadas por usted o haya finalizado la relación jurídica y/o comercial con usted de servicio, o bien, Oponerse al tratamiento de los mismos para fines específicos. Los mecanismos implementados para el ejercicio de sus Derechos ARCO, así como los plazos, información y documentación que debe contener su solicitud se especifican en el apartado de Derechos del Titular localizado en este mismo documento.
+
+6) ¿Cómo puede limitar el uso o divulgación de sus datos personales? Para limitar el uso y divulgación de sus datos personales, sírvase contactar a nuestro Oficial de Privacidad a través del correo electrónico info@digma.mx y solicitarle la exclusión de nuestra lista de distribución de e-mails para el envío de información en medios impresos y electrónicos sobre nuestros productos y servicios. Si usted no desea recibir mensajes de nuestra parte que no sean indispensables para cumplir las finalidades señaladas, los mecanismos implementados para ello, así como los plazos, información y documentación que debe contener su solicitud se especifican en el apartado de Derechos del Titular localizado en este mismo documento.
+
+7) ¿Cómo revocar el consentimiento para el tratamiento de sus datos personales? Si usted desea revocar el consentimiento que nos otorgó para el uso de sus datos personales, los mecanismos implementados para ello así como los plazos, información y documentación que debe contener su solicitud se especifican en el apartado de Derechos del Titular localizado en este mismo documento.
+
+8) Transferencia de datos personales. A continuación le comunicamos que las siguientes transferencias no requieren de su consentimiento, pero la ley exige que le sean informadas.: En este sentido sus datos personales podrán ser compartidos a sociedades del mismo grupo del responsable que opere bajo los mismos procesos y políticas internas. (sociedades controladoras, subsidiarias, afiliadas, franquicias), para dar cumplimiento a la relación jurídica adquirida con el Titular.
+
+9) Modificaciones al aviso de privacidad. Nos reservamos el derecho de efectuar en cualquier momento modificaciones al presente Aviso de Privacidad, para la atención de novedades legislativas, políticas internas o nuevos requerimientos para cumplir con las finalidades previstas. Estas modificaciones estarán disponibles a los Titulares en la dirección web: http://www.masquerade.com.mx.
+
+Derechos del Titular.
+
+En todo momento tiene el derecho de acceder, rectificar y cancelar sus datos personales, así como a oponerse al tratamiento de los mismos o a revocar su consentimiento respecto del tratamiento para determinadas finalidades – incluyendo las secundarias- que en su momento hubiese autorizado, sea de manera directa o través de su representante legal. Si decide hacerlo de manera directa, puede usted presentar la solicitud correspondiente vía e-mail al contacto señalado líneas arriba, con la información y documentación que a continuación se indica:
+1. Su nombre completo, su domicilio u otro medio – como su correo electrónico - para comunicarle la respuesta a su solicitud;
+2. Documentos que acrediten su identidad - copia simple en formato impreso o electrónico de su credencial de elector, pasaporte o licencia de manejo, según corresponda, o en su caso, de la representación legal a su mandante - copia simple en formato impreso o electrónico de la carta poder simple con su firma autógrafa, la de dos testigos y el mandatario, con sus correspondientes identificaciones oficiales – credencial de elector, pasaporte o licencia de manejo);
+3. Descripción clara y precisa de los datos personales respecto de los que busca ejercer alguno de los derechos ARCO; y
+4. Cualquier otro elemento o documento que facilite la localización de sus datos personales. Tratándose de solicitudes de acceso a datos personales, DIGMA.MX procederá con la entrega de su información, vía medios electrónicos o impresos, previa acreditación de su identidad o la de su representante legal, según corresponda.
+
+En el caso de las solicitudes de rectificación de datos personales, también deberá indicar las modificaciones a realizarse y aportar la documentación que sustente su petición. DIGMA.MX le responderá en un plazo máximo de veinte días, contados desde la fecha en que reciba su solicitud de acceso, rectificación, cancelación u oposición, la determinación que adopte, a efecto de que, si resulta procedente, se haga efectiva dentro de los quince días siguientes a la fecha en que le comunique su respuesta. En todos los casos, la respuesta de DIGMA.MX le será dada por la vía que haya elegido al presentar su solicitud, o en su caso, por cualquier otro medio acordado con usted. Los plazos antes referidos podrán ser ampliados una sola vez por un periodo igual, siempre y cuando así lo justifiquen las circunstancias del caso, según lo previsto en la LFPDPPP.
+
+La entrega de los datos personales será gratuita, solamente le corresponderá cubrir los gastos justificados de envío o el costo de reproducción en copias u otros formatos. En el caso de que reitere una solicitud en un periodo menor a doce meses, deberá cubrir los costos correspondientes en términos de la LFPDPPP, a menos que existan modificaciones sustanciales al aviso de privacidad que motiven nuevas consultas. Para la recepción, registro, atención y respuesta de las solicitudes para ejercer sus derechos ARCO y los demás derechos previstos en la LFPDPPP, ponemos a su disposición a personal encargado de los datos de Privacidad, el cual podrá contactar en nuestras oficinas, o bien, a través de nuestro sitio Web, o vía correo electrónico. En caso de que la información proporcionada en su solicitud sea errónea o insuficiente, o bien, no se acompañen los documentos de acreditación correspondientes, podremos solicitarle, dentro de los cinco días siguientes a la recepción de su solicitud, que aporte los elementos o documentos necesarios para dar trámite a la misma. Contará usted con diez días para atender nuestro requerimiento, contados a partir del día siguiente en que lo haya recibido. De no dar respuesta en dicho plazo, se tendrá por no presentada la solicitud correspondiente.
+
+ ¿Ante quién puede presentar sus quejas o denuncias por el tratamiento indebido de sus datos personales? Si después de haber ejercido sus Derechos de Protección de Datos ante DIGMA.MX por medio de los mecanismos establecidos en este Aviso de Privacidad, considera que su derecho de protección de datos personales ha sido lesionado por alguna conducta u omisión de nuestra parte; o cuenta con evidencia de que en el tratamiento de sus datos personales existe alguna violación a las disposiciones previstas en la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, le invitamos a ponerse en contacto nuevamente con nosotros para agotar todos los procedimientos internos a efecto de satisfacer plenamente su solicitud. De no ser el caso, usted podrá interponer la queja correspondiente ante el IFAI. Para mayor información visite: www.ifai.org.mx.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">TestActivity</string>
+    <!-- end APIS KEYS -->
+
+    <!-- spiner -->
+    <string-array name="generos_array">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <!-- end spiner -->
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/conteiner">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/layout_camera_preview"
+        android:layout_marginBottom="75dp"
+        >
+
+        <com.digma.masquerade.digma.ui.widget.CameraPreview
+            android:id="@+id/camera_preview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            />
+
+        <android.support.v4.view.ViewPager android:id="@+id/container"
+            android:layout_width="match_parent" android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:contentDescription="@string/content_desc_overlay"
+            android:id="@+id/marco_image"
+            android:scaleType="fitXY"
+            android:visibility="gone"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_alignParentBottom="true"
+        android:background="#75000000"
+        >
+
+        <ImageButton
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:onClick="onCaptureClick"
+            android:background="@drawable/button_dobule_state"
+            android:text="@string/btn_capture_text" />
+
+        <ImageButton
+            android:layout_width="45dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5dp"
+            android:padding="2dp"
+            android:onClick="switchCamera"
+            android:layout_marginLeft="15dp"
+            android:src="@drawable/cameraflip1"
+            android:scaleType="fitXY"
+            android:background="@drawable/rectangle_button"
+            />
+        <!--
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:onClick="switchCamera"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
+            android:text="Cambiar" /> -->
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

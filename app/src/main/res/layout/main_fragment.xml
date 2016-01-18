@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bckcontent">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Login via Facebook"
+        android:id="@+id/facebook"
+        android:layout_alignParentTop="true"
+        android:background="@color/facebookButton"
+        android:layout_margin="8dp"
+        android:textColor="#ffffffff" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Login via Twitter"
+        android:id="@+id/twitter"
+        android:layout_below="@+id/facebook"
+        android:background="#55ACEE"
+        android:layout_margin="8dp"
+        android:textColor="#ffffffff"/>
+
+    <!--
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Terminos y Condiciones"
+        android:id="@+id/terms_and_condition"
+        android:layout_alignParentBottom="true"
+        android:background="#38a936"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="20dp"
+        android:textColor="#ffffffff"/>
+    -->
+</RelativeLayout>
